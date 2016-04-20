@@ -1,0 +1,2 @@
+This is a file added to the second branch for a test.
+A test to see if this branch can be merged to the master.
